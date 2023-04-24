@@ -20,9 +20,9 @@ Setup
    mkdir -p go-externals/src
    export GOPATH=${PWD}/go-externals
 
-3. go get github.com/AllenDang/w32
+3. go get github.com/hamburgertrain/w32
 
-4. go install github.com/AllenDang/w32...
+4. go install github.com/hamburgertrain/w32...
 
 Contribute
 ==========
